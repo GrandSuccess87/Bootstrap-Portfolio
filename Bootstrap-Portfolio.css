@@ -1,0 +1,31 @@
+body {
+    background-color:  url('assets/images/dust_scratches.png');;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.navbar {
+    background-color: teal;
+}
+
+.navbar-right {
+    text-align: right;
+}
+
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+  }
